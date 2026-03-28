@@ -31,7 +31,7 @@
 | ChineseSimplified  | kerong1314      |
 | ChineseTraditional | kerong1314      |
 | German             | Quadrum         |
-| Polish             | 乞食Strzig??    |
+| Polish             | 乞食Strzigůń    |
 | Korean             | Orange Mushroom |
 | Russian            | MORTY MORT      |
 | Spanish            | Pollo frito     |
