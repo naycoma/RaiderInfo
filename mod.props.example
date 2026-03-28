@@ -1,0 +1,12 @@
+<Project>
+  <PropertyGroup>
+    <RootNamespace>RestockNotification</RootNamespace>
+    <AssemblyName>RestockNotification</AssemblyName>
+    <VersionPrefix>0.1.0.0</VersionPrefix>
+    <TargetGameVersion>1.6</TargetGameVersion>
+
+    <RimWorldPath>C:/Program Files (x86)/Steam/steamapps/common/RimWorld</RimWorldPath>
+    <LocalModsPath>C:/Program Files (x86)/Steam/steamapps/common/RimWorld/Mods</LocalModsPath>
+    <WorkshopPath>C:/Program Files (x86)/Steam/steamapps/workshop/content/294100</WorkshopPath>
+  </PropertyGroup>
+</Project>
